@@ -1,0 +1,12 @@
+1 "=" atribui algo a uma variável
+2 "=" verifica se os valores são iguais
+3 "=" verifica se os valores e tipo de variável são iguais
+
+AND = && 
+OR = ||
+NOT = !== (verifica a igualdade de valor e variável) != (verifica a igualdade de valor)
+
+for = utilizar quando souber o tamanho do intervalo
+while = utilizar quando não souber quantas vezes o fuxo vai ser executado
+
+tempo = cada 1 segundo no JS é representado por 1000 ou seja em Mili segundos
